@@ -9,5 +9,6 @@ public class HelloWorld {
     }
     public static void newMethod1(){
         System.out.println("Inside New Method1");
+        String s = "1";
     }
 }
