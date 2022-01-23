@@ -8,6 +8,6 @@ public class HelloWorld {
         System.out.println("Inside New Method");
     }
     public static void newMethod1(){
-        System.out.println("Inside New Method");
+        System.out.println("Inside New Method1");
     }
 }
